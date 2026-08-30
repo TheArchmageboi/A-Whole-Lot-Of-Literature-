@@ -1,0 +1,15 @@
+{
+    "Sandbox_WholeLotOfLiterature": "A Whole Lot of Literature",
+    "Sandbox_WholeLotOfLiterature_EnableMod": "Enable Mod",
+    "Sandbox_WholeLotOfLiterature_EnableMod_tooltip": "Master switch. Disable to stop adding books to loot without removing the mod.",
+    "Sandbox_WholeLotOfLiterature_SpawnRate": "Book Spawn Rate",
+    "Sandbox_WholeLotOfLiterature_SpawnRate_tooltip": "Adjust how often these books appear relative to other loot.",
+    "Sandbox_WholeLotOfLiterature_SpawnRate_option1": "Rare",
+    "Sandbox_WholeLotOfLiterature_SpawnRate_option2": "Normal",
+    "Sandbox_WholeLotOfLiterature_SpawnRate_option3": "More",
+    "Sandbox_WholeLotOfLiterature_SpawnRate_option4": "Max",
+    "Sandbox_WholeLotOfLiterature_MinYear": "Minimum Publication Year",
+    "Sandbox_WholeLotOfLiterature_MinYear_tooltip": "The earliest publication year a book can have to spawn. Books range from 1920 to 2026.",
+    "Sandbox_WholeLotOfLiterature_MaxYear": "Maximum Publication Year",
+    "Sandbox_WholeLotOfLiterature_MaxYear_tooltip": "The latest publication year a book can have to spawn. Books range from 1920 to 2026."
+}

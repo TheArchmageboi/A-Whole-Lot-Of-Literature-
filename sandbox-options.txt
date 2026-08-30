@@ -1,0 +1,38 @@
+VERSION = 1,
+
+option WholeLotOfLiterature.EnableMod
+{
+    type = boolean,
+    default = true,
+    page = WholeLotOfLiterature,
+    translation = WholeLotOfLiterature_EnableMod,
+}
+
+option WholeLotOfLiterature.SpawnRate
+{
+    type = enum,
+    numValues = 4,
+    default = 2,
+    page = WholeLotOfLiterature,
+    translation = WholeLotOfLiterature_SpawnRate,
+}
+
+option WholeLotOfLiterature.MinYear
+{
+    type = double,
+    min = 1920,
+    max = 2026,
+    default = 1920,
+    page = WholeLotOfLiterature,
+    translation = WholeLotOfLiterature_MinYear,
+}
+
+option WholeLotOfLiterature.MaxYear
+{
+    type = double,
+    min = 1920,
+    max = 2026,
+    default = 2000,
+    page = WholeLotOfLiterature,
+    translation = WholeLotOfLiterature_MaxYear,
+}
